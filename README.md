@@ -3,7 +3,7 @@ Check npm, PyPI, Go, Maven, crates.io and more packages for known security advis
 ## What it does
 Give a list like `lodash@4.17.15`; get one dataset row per package with advisory count, GHSA/PYSEC IDs, summaries and osv.dev links. Live data from osv.dev, nothing invented.
 ## Pricing
-Pay per event: **$0.005 per package checked** (event `package-checked`). 1,000 packages = $5.
+Free while in beta. Paid per-package pricing may be introduced later with advance notice on this page.
 ## Input
 `packages` (list, required), `ecosystem` (default npm).
 ## Output example
