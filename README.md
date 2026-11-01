@@ -12,3 +12,11 @@ Free while in beta. Paid per-package pricing may be introduced later with advanc
 GitHub Action: https://github.com/elaysuu/agent-advisory-gate · Pro: https://setrov.gumroad.com/l/zdojns
 ## Limits
 Max 1000 packages/run. Advisories only as complete as OSV.
+
+## Also available as
+
+- VS Code / Open VSX extension: https://open-vsx.org/extension/elaysuu/agent-package-advisory
+- RapidAPI (HTTP API): https://rapidapi.com/Elayosetrov/api/agent-package-advisory-check
+
+
+
