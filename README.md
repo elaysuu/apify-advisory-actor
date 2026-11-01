@@ -17,6 +17,3 @@ Max 1000 packages/run. Advisories only as complete as OSV.
 
 - VS Code / Open VSX extension: https://open-vsx.org/extension/elaysuu/agent-package-advisory
 - RapidAPI (HTTP API): https://rapidapi.com/Elayosetrov/api/agent-package-advisory-check
-
-
-
