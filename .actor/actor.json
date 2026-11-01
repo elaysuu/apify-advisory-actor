@@ -1,0 +1,1 @@
+{"actorSpecification":1,"name":"package-advisory-checker","title":"Package Vulnerability Checker (OSV)","version":"1.0","buildTag":"latest","input":"./input_schema.json","storages":{"dataset":"./dataset_schema.json"},"dockerfile":"../Dockerfile"}
