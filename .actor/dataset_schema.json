@@ -1,0 +1,1 @@
+{"actorSpecification":1,"fields":{},"views":{"overview":{"title":"Overview","transformation":{"fields":["package","version","ecosystem","advisoryCount","advisoryIds"]},"display":{"component":"table"}}}}
